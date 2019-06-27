@@ -5,4 +5,4 @@
 
 hello world!
 
-pull test2
+pull test
